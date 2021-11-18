@@ -1,0 +1,11 @@
+User Stories
+
+Home Navbar: Test the Home button on the navbar navigates correctly
+Navbar Contact: Test should validate that the Contact Modal and the functionality of all buttons
+Navbar About us: Test should validate the About us link and modal
+Navbar Cart: Test should validate the cart link (I wanted to do more there but ran out of time)
+Navbar Login: Test should validate the login modal from the navbar and that the navbar updates after login
+Navbar Sign in: Test should validate the Sign Modal behaves as expected and sends a successful POST request
+Home Page Carousel: Test should validate the Carousel appearing on the home page
+Home Page Categories: Test should validate clicking each of the categories on the home page brings in the correct data from the backend for each category
+Home Page Pagination: Test should validate that navigation between pages of the list of products brings back the correct data from the backend for each page (test expected to fail)

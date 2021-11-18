@@ -1,0 +1,6 @@
+Test Readme
+
+This is going to be pretty simple to set up:
+1. Use 'NPM install' to install cypress.
+2. Enter './node_modules/.bin/cypress open' to open the cypress test runner
+3. Run the demoBlazePage.spec.js file to begin the test run
